@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a91cd7a8.css",
-    "main.js": "/static/js/main.1dd9259c.js",
-    "static/media/splash-icon.svg": "/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
-    "static/media/humidity.svg": "/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
-    "index.html": "/index.html",
-    "main.a91cd7a8.css.map": "/static/css/main.a91cd7a8.css.map",
-    "main.1dd9259c.js.map": "/static/js/main.1dd9259c.js.map"
+    "main.css": "/dondodo1985/react_app_weather_good/static/css/main.a91cd7a8.css",
+    "main.js": "/dondodo1985/react_app_weather_good/static/js/main.bb01c296.js",
+    "static/media/splash-icon.svg": "/dondodo1985/react_app_weather_good/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/dondodo1985/react_app_weather_good/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/dondodo1985/react_app_weather_good/index.html",
+    "main.a91cd7a8.css.map": "/dondodo1985/react_app_weather_good/static/css/main.a91cd7a8.css.map",
+    "main.bb01c296.js.map": "/dondodo1985/react_app_weather_good/static/js/main.bb01c296.js.map"
   },
   "entrypoints": [
     "static/css/main.a91cd7a8.css",
-    "static/js/main.1dd9259c.js"
+    "static/js/main.bb01c296.js"
   ]
 }
