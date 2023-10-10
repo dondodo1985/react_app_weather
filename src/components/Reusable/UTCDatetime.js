@@ -9,15 +9,15 @@ const UTCDatetime = () => {
       variant="h3"
       component="h3"
       sx={{
-        fontWeight: '500',
-        fontSize: { xs: '12px', sm: '14px' },
+        fontWeight: '400',
+        fontSize: { xs: '10px', sm: '12px' },
         color: 'rgba(255, 255, 255, .7)',
         lineHeight: 1,
         paddingRight: '2px',
         fontFamily: 'Poppins',
       }}
     >
-      {utcFullDate} UTC
+      {utcFullDate} GMT
     </Typography>
   );
   return utcTimeValue;

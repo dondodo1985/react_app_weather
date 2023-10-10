@@ -57,5 +57,3 @@ Check `packages.json` for details
 
 <br/>
 Thank You ☺
-"# react_app_weather" 
-"# the-weather-forecasting-main" 
